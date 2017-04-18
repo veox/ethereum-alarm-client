@@ -1,5 +1,9 @@
 # Ethereum Alarm Clock Client
 
+**NOTE**: Legacy version, has been moved to
+[pipermerriam/ethereum-alarm-clock](https://github.com/pipermerriam/ethereum-alarm-clock)
+and resides in the tree as [alarm_client](https://github.com/pipermerriam/ethereum-alarm-clock/tree/master/alarm_client).
+That is also the version referenced on [docs.ethereum-alarm-clock.com](http://docs.ethereum-alarm-clock.com).
 
 This is a client that can be used to monitor the alarm service for upcoming
 scheduled calls and execute them when the appropriate block number is reached.
